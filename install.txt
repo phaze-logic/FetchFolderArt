@@ -94,7 +94,7 @@ If you downloaded a compiled standalone release, Python does not need to be
 installed.
 
 1. Download FetchFolderArt-Windows-x64.zip from the GitHub Releases page:
-   https://github.com/phazecrypto/FetchFolderArt/releases
+   https://github.com/phaze-logic/FetchFolderArt/releases
 2. Extract the ZIP if needed.
 3. Run FetchFolderArt.exe.
 4. Choose your music folder in the app.

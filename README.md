@@ -75,7 +75,7 @@ fetch-folder-art "M:\Music" --dry-run
 Users who do not want to install Python can download the standalone Windows
 build from the GitHub Releases page:
 
-[FetchFolderArt Releases](https://github.com/phazecrypto/FetchFolderArt/releases)
+[FetchFolderArt Releases](https://github.com/phaze-logic/FetchFolderArt/releases)
 
 Download `FetchFolderArt-Windows-x64.zip`, extract it, and run
 `FetchFolderArt.exe`.
